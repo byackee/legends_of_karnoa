@@ -1,6 +1,10 @@
 # Legends of Karnoa android application (Cryptocademia.com)
 Legends of Karnoa Android application for cryptocademia.com
 
+![Screenshot_20240410-230449_legends_of_karnoa-1](https://github.com/byackee/legends_of_karnoa/assets/4707496/f467c607-ae2e-4594-9fcf-29f7246e3a25)
+
+![Screenshot_20240410-230457_legends_of_karnoa-1](https://github.com/byackee/legends_of_karnoa/assets/4707496/322e7ec5-1b97-43ce-bac0-d19a8f67ad1f)
+
 
 ## Requirements:
   * Android 9
