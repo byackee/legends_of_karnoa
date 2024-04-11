@@ -1,3 +1,5 @@
+![license](https://img.shields.io/github/license/byackee/Cryptocademia_android_app.svg) ![GitHub contributors](https://img.shields.io/github/contributors/byackee/Cryptocademia_android_app.svg) ![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/byackee/Cryptocademia_android_app.svg)
+
 # Legends of Karnoa android application (Cryptocademia.com)
 Legends of Karnoa Android application for cryptocademia.com
 
@@ -18,8 +20,8 @@ Legends of Karnoa Android application for cryptocademia.com
 - [ ] Add more features & personalization
 
 ## Donation
-  [Support via PayPal](https://www.paypal.me/byackee/)
-  
-  Eth: 0x7F57f6ad25c501deb2fcaCA863264F593efe31d8
-  
-  Flux: t1U3ubvVNhCHFkzGYZV52huyE4a1MGh3ymE
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/byackee)
+
+![Static Badge](https://img.shields.io/badge/Donate-Eth:_0x7F57f6ad25c501deb2fcaCA863264F593efe31d8-blue)
+
+![Static Badge](https://img.shields.io/badge/Donate-Flux:_t1U3ubvVNhCHFkzGYZV52huyE4a1MGh3ymE-blue)
